@@ -1,7 +1,6 @@
 #pragma once
 
 #include <iostream>
-
 #include <glew.h>
 #include <glfw3.h>
 #include <glm.hpp>
@@ -11,3 +10,5 @@
 #include <mat4x4.hpp>
 #include <gtc\matrix_transform.hpp>
 #include <gtc\type_ptr.hpp>
+
+#include <SOIL2.h>
